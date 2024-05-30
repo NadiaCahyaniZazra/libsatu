@@ -1,0 +1,19 @@
+{
+    "name": "ncz/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "NIT",
+    "authors": [
+        {
+            "name": "Nadia Cahyani Zazra",
+            "email": "nadiazazra@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ncz\\labhello": "src/"
+        }
+    },
+    "require": {}
+}
